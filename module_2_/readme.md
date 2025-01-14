@@ -8,9 +8,12 @@ from time import sleep для создание паузы на 4 сек.
 
 ## Условная конструкция. Операторы if, elif, else — module_2_2  
 `
-if
-elif
-else
+if условие 1:  
+elif условие 2:
+...
+elif условие n:
+else:
+    команда
 `
 
 
